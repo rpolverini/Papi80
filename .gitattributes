@@ -1,0 +1,2 @@
+assets/fotos/*.mov filter=lfs diff=lfs merge=lfs -text
+assets/fotos/*.MOV filter=lfs diff=lfs merge=lfs -text
